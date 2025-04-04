@@ -1,6 +1,6 @@
-# 🍔 Responsive Card UI – Food Munch Vibe
+#  Responsive Card UI – Food Munch Vibe
 
-This is a **simple and responsive card UI** project made using **HTML, CSS, Bootstrap**, and a little bit of **Flexbox**. The design works well on **mobile, tablet, and desktop** devices. It shows cards for food items in a clean and attractive way.
+This is a **simple and responsive card UI** project made using **HTML, CSS, Bootstrap**, and a little bit of **Flexbox**. The design works well on **mobile, tablet, and desktop** devices. It shows cards for food items and collection of shoes in a clean and attractive way.
 
 ---
 
